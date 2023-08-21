@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Angus Cloud, actor on HBO series ‘Euphoria,’ dead at 25 - The Associated Press",
+            "description": "Angus Cloud, the actor who starred as the drug dealer Fezco “Fez” O’Neill on the HBO series “Euphoria,” has died. He was 25. Cloud’s publicist, Cait Bailey, said Cloud died Monday at his family home in Oakland, California. No cause of death was given. In a st…",
+            "url": "https://apnews.com/article/angus-cloud-dead-obit-euphoria-b5dac0a278f3de45b12d17351255427c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/139ca3e/2147483647/strip/true/crop/4468x2513+0+114/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2Fb2%2F7544c518b37b1f1e72206997b6b5%2Ff7b127c8bce84f44867ef57d08e26a1b",
+            "publishedAt": "2023-08-01T10:30:00Z",
+            "content": "LOS ANGELES (AP) Angus Cloud, the actor who starred as the drug dealer Fezco Fez ONeill on the HBO series Euphoria, has died. He was 25. \r\nClouds publicist, Cait Bailey, said Cloud died Monday at his… [+2338 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matias Grez",
+            "title": "USWNT survives late scare to reach Women’s World Cup round of 16 - CNN",
+            "description": "The US Women’s National Team was a post width away from exiting the Women’s World Cup at the group stage, but survived a late scare to earn a goalless draw against Portugal and reach the last 16.",
+            "url": "https://www.cnn.com/2023/08/01/football/uswnt-portugal-womens-world-cup-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230801093026-04-world-cup-080123-usa-portugal.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-01T10:29:00Z",
+            "content": "The US Womens National Team was a post width away from exiting the Womens World Cup at the group stage, but survived a late scare to earn a goalless draw against Portugal and reach the last 16.\r\nWith… [+4140 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kelly Kasulis Cho, Ellen Francis, Natalia Abbakumova",
+            "title": "Russia-Ukraine war news: Moscow skyscraper hit in second drone attack, mayor says - The Washington Post",
+            "description": "Russian authorities said several drones attempted to target Moscow, blaming Ukraine. A Russian strike destroyed a dormitory in Ukraine's Kharkiv.",
+            "url": "https://www.washingtonpost.com/world/2023/08/01/russia-ukraine-war-news/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HEWZNX3HSHHT5E56VQOVDP6ZM4.JPG&w=1440",
+            "publishedAt": "2023-08-01T09:58:00Z",
+            "content": "A drone hit the same Moscow skyscraper which houses offices and ministries for the second time in days, the citys mayor and Russias defense ministry said early Tuesday, blaming Ukraine. Kyiv has not … [+3758 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Ron Bousso, Shadia Nasralla",
+            "title": "BP boosts dividend even as profit slumps 70% to $2.6 bln - Reuters",
+            "description": "BP's <a href=\"https://www.reuters.com/markets/companies/BP.L\" target=\"_blank\">(BP.L)</a> second-quarter profit slumped 70% from a year earlier to $2.6 billion, missing forecasts, as refining margins and oil trading income fell, but still allowing the energy g…",
+            "url": "https://www.reuters.com/business/energy/bp-boosts-dividend-even-profit-slumps-70-26-bln-2023-08-01/",
+            "urlToImage": "https://www.reuters.com/resizer/r_EMQG9DAXvaz1FD8P2zQBcyM3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DYCZ7SP2VJ27HUAKKAYOZVOGU.jpg",
+            "publishedAt": "2023-08-01T09:46:00Z",
+            "content": "LONDON, Aug 1 (Reuters) - BP's (BP.L) second-quarter profit slumped 70% from a year earlier to $2.6 billion, missing forecasts, as refining margins and oil trading income fell, but still allowing the… [+4391 chars]"
+        }
+        
+    ]
+}
